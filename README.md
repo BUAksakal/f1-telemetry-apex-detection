@@ -167,8 +167,6 @@ python apex_analyzer.py
 
 # 🖼️ Output
 <img width="1500" height="820" alt="newplot" src="https://github.com/user-attachments/assets/f83b6ce5-d099-43d4-91bd-b6d68405fbc7" />
----
-
 # 🔧 Technologies
 
 - **Fast-F1** — session & telemetry data  
