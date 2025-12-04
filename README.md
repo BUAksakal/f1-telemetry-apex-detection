@@ -1,4 +1,4 @@
-# 🏎️ F1 Apex Analyzer — Neon Track Edition
+# 🏎️ F1 Apex Analyzer 
 
 This project uses real Formula 1 telemetry to **automatically detect true apex points**, determine **the fastest driver for each corner**, and visualize everything on a **stylized neon circuit map**.  
 Each apex is colored based on the driver’s **official team color**, and a 🏁 **checkered flag** marks the start/finish line.
